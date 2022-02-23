@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Baptists answer to Mr. Obed. Wills, his appeal against Mr. H. Danvers</title>
+            <author>Knollys, Hanserd, 1599?-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47557</idno>
+            <idno type="STC">Wing K705</idno>
+            <idno type="STC">ESTC R7928</idno>
+            <idno type="EEBO-CITATION">12922066</idno>
+            <idno type="OCLC">ocm 12922066</idno>
+            <idno type="VID">95402</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47557)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95402)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 387:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Baptists answer to Mr. Obed. Wills, his appeal against Mr. H. Danvers</title>
+                  <author>Knollys, Hanserd, 1599?-1691.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Hans. Knollys [and 6 others].</note>
+                  <note>Advertisement on p. [2].</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wills, Obed. --  Infant-baptism asserted and vindicated by Scripture and antiquity.</term>
+               <term>Danvers, Henry, d. 1687.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:95402:1"/>
+            <!-- PDF PAGE 80 -->
+            <head>An <hi>Advertiſment</hi> from the Bookſeller.</head>
+            <p>THe Impartial Reader deſiring Informa<g ref="char:EOLhyphen"/>tion into the Principle of Baptizing Believers, may be furniſh'd with the follow<g ref="char:EOLhyphen"/>ing Treatiſes, bound together, or ſeverally.</p>
+            <list>
+               <item>A Treatiſe of Baptiſm; wherein that of Believers, and that of Infants is Examined by the Scriptures, with the Hiſtory of both out of Antiquity.</item>
+               <item>A <hi>Reply</hi> to Mr. <hi>Wills,</hi> in Defence of the ſaid Treatiſe.</item>
+               <item>A Second <hi>Reply</hi> to Mr. <hi>Baxter,</hi> in De<g ref="char:EOLhyphen"/>fence of the ſame.</item>
+               <item>A <hi>Rejoynder</hi> to Mr. <hi>Wills</hi> his <hi>Vindiciae;</hi> with an Anſwer to his <hi>Appeal;</hi> all by Mr. <hi>Henry Danvers.</hi>
+               </item>
+               <item>A Treatiſe concerning the Covenant and Baptiſm; wherein is ſhewed, that Belie<g ref="char:EOLhyphen"/>vers only are the Spiritual Seed of <hi>Abra<g ref="char:EOLhyphen"/>ham;</hi> with a <hi>Reply</hi> to Mr. <hi>Whiſtons An<g ref="char:EOLhyphen"/>ſwer</hi> to Mr. <hi>Danvers,</hi> by Mr. <hi>Edward Hutchinſon:</hi> With a Letter [of <hi>Reproof</hi>] to Mr. <hi>Obed. Wills</hi> by <hi>T. B.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:95402:1"/>
+            <!-- PDF PAGE 80 -->
+            <head>The Baptists Anſwer to Mr. <hi>Obed. Wills,</hi> his <hi>Appeal</hi> against Mr. <hi>H. Danvers.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WE have ſeriouſly con<g ref="char:EOLhyphen"/>ſidered your <hi>Appeal</hi> againſt Mr. <hi>Danvers,</hi> and have alſo heard, and careful<g ref="char:EOLhyphen"/>ly weighed the <hi>Defence</hi> he makes thereto; and in order to give an Impartial <hi>Judgment,</hi> as you call us to, have deſired ſome of our <hi>Number</hi> diligently to examine the <hi>Authors</hi> cited by you both; and though it appears to us, that Mr. <hi>Danvers,</hi> has earneſtly endeavou<g ref="char:EOLhyphen"/>red an <hi>accomodation,</hi> in a more pri<g ref="char:EOLhyphen"/>vate
+<pb n="2" facs="tcp:95402:2"/>
+               <!-- PDF PAGE 81 -->
+and friendly manner, betwixt you and him, ſo to rectifie mi<g ref="char:EOLhyphen"/>ſtakes on any hand, which (had it been accepted of) might have ſaved this <hi>trouble;</hi> and that the Method you have uſed in this <hi>Ap<g ref="char:EOLhyphen"/>peal</hi> be unuſual, and unlike the <hi>Pattern</hi> you ſeem to take; an <hi>Ap<g ref="char:EOLhyphen"/>peal</hi> in theſe Caſes being then only <hi>proper,</hi> when the Party appealed againſt, appears to be ſo <hi>contuma<g ref="char:EOLhyphen"/>cious,</hi> and <hi>ſtubborn,</hi> as to <hi>reject,</hi> and ſtand out againſt juſt <hi>convi<g ref="char:EOLhyphen"/>ction</hi> and <hi>admonition;</hi> which we find not to be juſtly chargeable upon Mr. <hi>Danvers,</hi> and whether it be not rather your own over<g ref="char:EOLhyphen"/>ſight, we hope you will in time be ſenſible of; yet we ſay, we ſhall not inſiſt upon that <hi>Conſideration;</hi> and to give you, and the World that ſatisfaction <hi>expected</hi> from us,
+<pb n="3" facs="tcp:95402:2"/>
+               <!-- PDF PAGE 81 -->
+ſome of us whoſe names are ſub<g ref="char:EOLhyphen"/>ſcribed, have examined the Parti<g ref="char:EOLhyphen"/>culars you charge him with, and find ſome miſtakes and eſcapes on Mr. <hi>Danvers</hi> ſide, which he inge<g ref="char:EOLhyphen"/>niouſly acknowledges; and we hope may be to your full <hi>ſatisfa<g ref="char:EOLhyphen"/>on</hi> as it cannot (in juſtice) but be to ours, ſince (as you ſeem to hint) <hi>a publick owning, is what you expect.</hi>
+            </p>
+            <p>Some of the Particulars in your <hi>Appeal,</hi> we find to be ſo <hi>trivial,</hi> and <hi>inſignificant,</hi> that they deſerve not to be <hi>mentioned,</hi> and deem his Anſwers returned to them <hi>reſpectively,</hi> ſufficient to ſatisfie the Reader.</p>
+            <p>Others of your Charges he <hi>tra<g ref="char:EOLhyphen"/>verſes,</hi> and joyns iſſue with you at the <hi>Bar</hi> you have brought it to, and the moſt material of theſe we now remark to you; ſo that what
+<pb n="4" facs="tcp:95402:3"/>
+               <!-- PDF PAGE 82 -->
+he <hi>acknowledges,</hi> and what's <hi>inconſi<g ref="char:EOLhyphen"/>derable,</hi> and what's here further <hi>examined,</hi> comprehends your whole <hi>Appeal.</hi>
+            </p>
+            <p>And we muſt obſerve to you, that you lie <hi>obnoxious</hi> to the Re<g ref="char:EOLhyphen"/>turn you made to Mr. <hi>Danvers,</hi> when he charged you with leaving out part of the <hi>Sentence</hi> of <hi>Nazian<g ref="char:EOLhyphen"/>zen, viz. Si aliquid periculi immineat,</hi> calling it, <hi>p.</hi> 7. of your <hi>Vind. A frivolous Charge;</hi> excuſing your ſelf after ſuch a manner as you will not be ſatisfied with from others; therefore if we ſay many of your Charges are <hi>frivolous,</hi> your Rea<g ref="char:EOLhyphen"/>ſon in your own behalf will <hi>Juſti<g ref="char:EOLhyphen"/>fie</hi> us, you being Judge.</p>
+            <p n="1">I. And therefore 1. we deſire you to conſider, whether the <hi>ſtop<g ref="char:EOLhyphen"/>ping your Tranſlation out of</hi> Calvin, <hi>where you did,</hi> p. 162. <hi>Appeal,</hi> be
+<pb n="5" facs="tcp:95402:3"/>
+               <!-- PDF PAGE 82 -->
+not unfair, and a miſleading an <hi>Engliſh</hi> Reader.</p>
+            <p n="2">II. You charge Coll' <hi>Danvers Appeal, p.</hi> 166. to adde the words, <hi>[for it cannot be, that the Body ſhould receive the Sacrament of Bap<g ref="char:EOLhyphen"/>tiſm till the Soul hath before received the truth of Faith]</hi> and ſay, they are not <hi>Jeroms</hi> Words, but of Mr. <hi>Danvers</hi> Adding: But upon Exa<g ref="char:EOLhyphen"/>mination of that place [<hi>Mat.</hi> 28. <hi>Tom.</hi> 9. <hi>Edit. Paris. An.</hi> 1546.] we find them to be <hi>Jeroms</hi> Words Verbatim, as <hi>Mr. Danvers</hi> Cites them. And we obſerve in your <hi>Quotation</hi> of <hi>Mr. Danvers,</hi> in that place you <hi>add, [Magd. Cent.</hi> 4. <hi>c.</hi> 6. 418.] as if <hi>Mr. Danvers</hi> had particularly <hi>Quoted the Magd.</hi> there, which indeed he doth not; but only <hi>Jerom</hi> upon <hi>Mathew,</hi> which Double <hi>Injury</hi> we conceive
+<pb n="6" facs="tcp:95402:4"/>
+               <!-- PDF PAGE 83 -->
+deſerves your Double <hi>Conſiderati<g ref="char:EOLhyphen"/>on,</hi> in order to a Candid <hi>acknow<g ref="char:EOLhyphen"/>ledgment.</hi>
+            </p>
+            <p n="3">III. You charge him, <hi>p.</hi> 169. With abuſing <hi>Calvin,</hi> fathering <hi>Eſtius's</hi> Words upon him, though he hath owned it a miſtake in his <hi>Reply,</hi> But we obſerve alſo, That he Quotes <hi>Eſtius Annot. Gen.</hi> 17.7. at the end, which you leave out, though you took all his words to that, and yet reprove him ſo often for the ſame, which ſeems neither <hi>ingenious</hi> nor <hi>fair.</hi>
+            </p>
+            <p n="4">IV. You charge him with abu<g ref="char:EOLhyphen"/>ſing Dr. <hi>Hamond, p.</hi> 107. in affir<g ref="char:EOLhyphen"/>ming, <hi>That</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſignifies an Im<g ref="char:EOLhyphen"/>merſion, or Waſhing the whole Body, anſwering the Hebrew</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> whereas you ſay the Dr. tells us, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſigni<g ref="char:EOLhyphen"/>fies the waſhing the whole Body, and anſwers to</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp;c. We have <hi>exa<g ref="char:EOLhyphen"/>mined</hi>
+               <pb n="7" facs="tcp:95402:4"/>
+               <!-- PDF PAGE 83 -->
+the Doctor's Book, Printed for <hi>R. Royſton, Anno</hi> 1653 and find Mr. <hi>Danvers</hi> quoted his words truly, and the miſtake to be yours, which we hope will convince you of the untrue and unjuſt reproach you ſubjoyn, <hi>That he underſtands not Engliſh Authors,</hi> &amp;c.</p>
+            <p n="5">V. You charge Mr. <hi>Danvers</hi> for affirming from <hi>Walden,</hi> That the <hi>Wicklevians,</hi> in agreement to the Doctrine of <hi>Pelagius</hi> and o<g ref="char:EOLhyphen"/>thers, denyed Infant Baptiſm, he acknowledges it to be his miſtake to alledge, That it was agreeable to <hi>Pelagius</hi> and others, (ſaid to be for Infant Baptiſm) but if <hi>Wal<g ref="char:EOLhyphen"/>den</hi> be to be believed, it appears, That the <hi>Wickliffiſts</hi> judged Eccſe<g ref="char:EOLhyphen"/>ſiaſtical Baptiſm unprofitable to little ones, in theſe words [<hi>noſtri</hi> Wicliviſtae <hi>Baptiſmum Eccleſiaſti<g ref="char:EOLhyphen"/>cum
+<pb n="8" facs="tcp:95402:5"/>
+                  <!-- PDF PAGE 84 -->
+inutile judicant</hi> parvulis <hi>con<g ref="char:EOLhyphen"/>tra omnes praedictos</hi>] againſt all the aforeſaid, <hi>viz. Pelagius, Vincen<g ref="char:EOLhyphen"/>tius Victor, and thoſe that Bap<g ref="char:EOLhyphen"/>tized Children, as born of Belie<g ref="char:EOLhyphen"/>ving Parents.</hi> And we muſt re<g ref="char:EOLhyphen"/>mark to you, that in your Quo<g ref="char:EOLhyphen"/>tation, <hi>p.</hi> 172. <hi>Appeal,</hi> you leave out <hi>[parvulis]</hi> the principal word there, and with what deſign or end we leave you to conſider.</p>
+            <p n="6">VI. You charge him, <hi>p.</hi> 179, 180. for adding the Words <hi>[it is our Will, That all that affirm, That Young Children receive Everlaſting Life, albeit they be not by the Sacra<g ref="char:EOLhyphen"/>ment of Grace or Baptiſm renewed]</hi> to the <hi>Milevitan Decree.</hi> We have examined that 4th. <hi>Tom. in Collect. Reg.</hi> and find the <hi>Canon</hi> quoted by Mr. <hi>Danvers</hi> in <hi>p.</hi> 559 of it, taken out of a <hi>very antient Copy,</hi> immedi<g ref="char:EOLhyphen"/>ately
+<pb n="9" facs="tcp:95402:5"/>
+               <!-- PDF PAGE 84 -->
+following the Words you Cite, thus, <hi>Item placuit, ut ſiquis dicit ideo dixiſſe dominum; <hi>In domo patris mei manſiones multe ſunt,</hi> ut intelliga<g ref="char:EOLhyphen"/>tur, quia in regno Coelorum erit aliquis medius, aut ullus alicubi locus, ubi be<g ref="char:EOLhyphen"/>ate vivant parvuli, qui ſine Baptiſmo ex hac vita migrarunt ſine quo in regno Coelorum quod eſt vita aeterna intrare non poſſunt, Anathema ſit, An. Chriſti</hi> 424. Now for you to affirm, that the ſaid Clauſe was of Mr. <hi>Dan<g ref="char:EOLhyphen"/>vers</hi>'s own adding; whereas, as he ſays, <hi>Here is an expreſs</hi> Anathema <hi>against thoſe that affirmed Children might be ſaved without Baptiſm, is</hi> an Inſtance (to give the moſt fa<g ref="char:EOLhyphen"/>vourable conjecture of it) that you have made but a lame ſearch: So that it is very juſt for us to acquit <hi>Mr. Danvers</hi> of this Charge. We preſume you know, that the <hi>Magde<g ref="char:EOLhyphen"/>burgs</hi>
+               <pb n="10" facs="tcp:95402:6"/>
+               <!-- PDF PAGE 85 -->
+give an account when they ſpeak of that <hi>Milevitan Synod,</hi> of ſome that affirm'd Infants Salvati<g ref="char:EOLhyphen"/>on without Baptiſm, as by the In<g ref="char:EOLhyphen"/>ſtances <hi>Mr. Danvers</hi> gives from them, undeniably appears; And in oppoſition to them was that <hi>A<g ref="char:EOLhyphen"/>nathema</hi> enacted, and every Cir<g ref="char:EOLhyphen"/>cumſtance concurs to evidence it as genuine as the other <hi>Canons:</hi> And therefore upon a review of the place we queſtion not but you will be ſatisfied here is no <hi>forgery</hi> or <hi>pre<g ref="char:EOLhyphen"/>varication</hi> in <hi>Mr. Danvers</hi> in this Particular.</p>
+            <p n="7">VII. Under the Head of his <hi>fa<g ref="char:EOLhyphen"/>thering upon Authors that which they ſay not,</hi> you charge him with abuſing <hi>Baſil. Appeal p.</hi> 181. in fa<g ref="char:EOLhyphen"/>thering thoſe Words upon him, <hi>[must the faithful be ſealed with Baptiſm? Faith must precede, and
+<pb n="11" facs="tcp:95402:6"/>
+                  <!-- PDF PAGE 85 -->
+go before]</hi> whereas you ſay, <hi>there is no ſuch Speech in what the</hi> Magd. <hi>repeat of</hi> Baſil, contra Eunom. which we conceive to be a very weak ground for your Charge. For muſt it follow, that the Words are not <hi>Baſils,</hi> becauſe you find it not in the <hi>Magdeburgs?</hi> we have ſearch'd <hi>Baſil,</hi> and find his VVords to be <hi>lib.</hi> 3. <hi>p.</hi> 84. <hi>contra Eunom.</hi> to the ſence he is Cited by Mr. <hi>Danvers,</hi> viz. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, i. e. <hi>It is neceſſary first to believe, and afterwards to be ſigned with Baptiſm.</hi> So that this is alſo your own error and overſight.</p>
+            <p n="8">VIII. You charge him with a notorious untruth, <hi>p.</hi> 185. for af<g ref="char:EOLhyphen"/>firming from the <hi>Magd. That</hi> Guli<g ref="char:EOLhyphen"/>elmus <hi>added the</hi> Virgin Mary <hi>to the form of Baptiſm.</hi> VVe have exami<g ref="char:EOLhyphen"/>ned the <hi>Magd. Cen.</hi> 13. <hi>p.</hi> 419 <hi>Cap<g ref="char:punc">▪</g>
+               </hi> 4.
+<pb n="12" facs="tcp:95402:7"/>
+               <!-- PDF PAGE 86 -->
+               <hi>Edit. Baſil Anno</hi> 1574. and find the words, <hi>Male</hi> Gulielmus <hi>ad formam Baptiſmi addidit</hi> Mariam <hi>Baptizo te in nomine patris omnipotentis, &amp; fi<g ref="char:EOLhyphen"/>lii &amp; ſpiritus ſancti, &amp; <hi>Beate Ma<g ref="char:EOLhyphen"/>rie Virginis,</hi>
+               </hi> as Cited by <hi>Mr. Dan<g ref="char:EOLhyphen"/>vers;</hi> and therefore for you to af<g ref="char:EOLhyphen"/>firm the contrary is a groſs miſtake.</p>
+            <p>And thus, Sir, we have given a true and impartial repreſentation of the Particulars as we find them, being, as we conceive, the principal mat<g ref="char:EOLhyphen"/>ters under our <hi>Cognizance,</hi> omitting the leſs material, &amp; do recommend them to your <hi>Chriſtian conſideration,</hi> hoping that your ſerious review of them, will diſcover them to be your <hi>errors.</hi> And as <hi>Mr. Danvers</hi> has publickly owned what of miſtake he is convinced of in his <hi>Anſwer</hi> to your <hi>Appeal:</hi> So it is juſtly <hi>expected,</hi> you will alſo, <hi>according to your pro<g ref="char:EOLhyphen"/>miſe
+<pb n="13" facs="tcp:95402:7"/>
+                  <!-- PDF PAGE 86 -->
+in the Preface to your Appeal,</hi> do the ſame in theſe Particulars.</p>
+            <p>And ſince your Charges do not appear to be true to the ſatisfaction of all impartial perſons; but on the contrary great miſtakes on your ſide, you will not, we hope, <hi>think it unjuſt if we acquit him, &amp; reflect the blame of the Charge upon your ſelf, as you deſire, in caſe you be found in the error.</hi>
+            </p>
+            <p>The Particulars <hi>Mr. Danvers</hi> owns in his ſaid <hi>Anſwer</hi> to your <hi>Appeal,</hi> we bring not under our diſcuſſion or cenſure, concluding it to be enough that he acknowledges them.</p>
+            <p>And ſuch petty Charges as he <hi>ſufficiently anſwers,</hi> and are indeed of little weight, ſave to <hi>inhaunce</hi> the number of your Particulars, as alſo things controverted, and only <hi>collateral</hi> to the grand Propoſition in diſpute, (as are <hi>thoſe things you call
+<pb n="14" facs="tcp:95402:8"/>
+                  <!-- PDF PAGE 87 -->
+ſtrange Doctrins,</hi> &amp;c.) we think do not ſo properly offer themſelves to our Conſiderations. And therefore we conclude we may be excuſed if we wave them.</p>
+            <p>And laſtly, we propoſe, That if the Return we give to your <hi>Appeal</hi> ſhould be deemed <hi>inſufficient</hi> by you, or <hi>ſhort in</hi> any thing, (which we are not conſcious of) and that thereupon you take your ſelf concerned to appear any further in <hi>this Controverſie,</hi> you would be perſwa<g ref="char:EOLhyphen"/>ded, that things may be tranſacted in an <hi>amicable</hi> and <hi>friendly</hi> way; which we hope may tend to our <hi>mutual ſatisfaction</hi> in the clearing up of Truth, and to Che<g ref="char:EOLhyphen"/>riſh that love, that all that fear the Lord ſhould bear each other, though differing in ſome things, which is our very earneſt deſire; and to promote which, we ſhall en<g ref="char:EOLhyphen"/>deavour to contribute the utmoſt we can.</p>
+            <closer>
+               <dateline>London
+<date>the 13th. of the 5th. Month 1675.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Hanſ. Knollys.</item>
+                     <item>Will. Kyffen.</item>
+                     <item>Dan. Dyke.</item>
+                     <item>Jo. Goſnold.</item>
+                     <item>Hen. Forty.</item>
+                     <item>Tho. De Laune.</item>
+                  </list>
+               </signed>
+            </closer>
+            <pb facs="tcp:95402:8"/>
+            <!-- PDF PAGE 87 -->
+         </div>
+      </body>
+   </text>
+</TEI>
